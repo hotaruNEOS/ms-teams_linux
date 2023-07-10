@@ -9,7 +9,7 @@ Repo with rpm and deb packages of lastest versión for Fedora-Debian and derivat
 ### DEB
   https://web.archive.org/web/20221203104824/https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/
 
-### Update and Upgrade OS
+## Update and Upgrade OS
 First update repos and system from our OS writting the next command according your OS:
 
 ### Fedora and others (CentOS, Nobara, etc)
@@ -38,7 +38,7 @@ First update repos and system from our OS writting the next command according yo
 
   [user@distro ~]$ sudo pkcon update
 
-### Instalation
+## Instalation
 
 After to download the package and update OS, open terminal and chage directory where is located the package, ex:
     
@@ -68,6 +68,6 @@ Accept the command and instalation process will start:
 
   Is this ok [y/N]:y
 
-### Running Microsoft Teams
+## Running Microsoft Teams
 
 Once the package installation process is finished, we look for *Microsoft Teams - Preview* in the applications menu of our OS. If you can't find it, log out and log back in and search again.
